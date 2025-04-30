@@ -1,9 +1,9 @@
 {
+  "homepage": "https://JitGenius23.github.io/sahoo-subhrajit-portfolio",
   "name": "s2-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://JitGenius23.github.io/sahoo-subhrajit-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
